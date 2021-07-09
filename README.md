@@ -10,3 +10,7 @@ I'm Paige.
 - [Soturi](https://github.com/qanazoga/soturi), [Hallita](https://github.com/qanazoga/hallita), and [Carlisle](https://github.com/qanazoga/carlisle-bot) - Discord bots I've written to learn Python, JavaScript, and Clojure respectively  
 
 If you need help with something I've made please submit a PR or issue, or email me at qanazoga@gmail.com
+
+
+I started using GitLab for work so I'm focusing there now, find me [@qanazoga](https://gitlab.com/qanazoga).  
+I'll keep my GitHub as a mirror but I can't confirm everything will work perfect link-wise.
