@@ -9,4 +9,4 @@ I'm Paige.
 - [big-brain.js](https://github.com/paigedotgay/big-brain.js) - A JavaScript library to add the little things I miss from Python
 - [Soturi](https://github.com/paigedotgay/soturi), [Hallita](https://github.com/paigedotgay/hallita), and [Carlisle](https://github.com/paigedotgay/carlisle) - Discord bots I've written to learn Python, JavaScript, and Clojure respectively  
 
-If you need help with something I've made please submit a PR or issue, or email me at qanazoga@gmail.com
+If you need help with something I've made please submit a PR or issue, or email me at paige@paige.gay
